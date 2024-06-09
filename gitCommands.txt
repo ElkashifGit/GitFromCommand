@@ -1,6 +1,11 @@
+
 git clone url
 git status         // to check the files which are not loaded in the staging area 
 git add   the name of the file // this to add the files from the pc to the staging area 
 git reset head the name of the file // to undo a file from the staging area 
+git branch // to get the branch of my local repo
+git remote -v // to get the remote repo
+git push the remote  the branch 
+
  
 type null > the name of the file and the extension 
