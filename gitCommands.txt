@@ -1,0 +1,6 @@
+git clone url
+git status         // to check the files which are not loaded in the staging area 
+git add   the name of the file // this to add the files from the pc to the staging area 
+git reset head the name of the file // to undo a file from the staging area 
+ 
+type null > the name of the file and the extension 
